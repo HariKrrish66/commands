@@ -1,7 +1,7 @@
 git config --global user.name "Indhukuri Prudhvi Raju"
 git config --global user.email "prudhvi1247@icloud.com"
 
-cat ~/.gitconfig                - To Find User Details of local repository
+cat ~/.gitconfig                -    To Find User Details of local repository
 
 code .                        - To Open Visual Studio code
 
